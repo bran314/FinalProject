@@ -389,8 +389,6 @@ document.getElementById("output").innerHTML = ""
 
 
 
-//query searches
-
 function searchCourse(query){
   var table = document.getElementById("output");
   for(i = 0, n= cusData.length; i<n; i++){
