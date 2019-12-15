@@ -8,7 +8,7 @@ let rawdata = fs.readFileSync('./api/courses.json');
 let courses = JSON.parse(rawdata);
 
 app.use('/api', express.static('api'));
-app.use('/styles', express.static('styles'));
+app.use('/css', express.static('css'));
 app.use('/images', express.static('images'));
 
 app.get('/', function(request, response){

@@ -28,7 +28,7 @@ Computer_Science:[
     credits: 3,
     seats: 1,
     type:'Lecture',
-    days:'W 1:50-4:40',
+    days:'W ',
     instructor:'Jun Wu',
   },
   {
@@ -37,7 +37,7 @@ Computer_Science:[
     credits: 3,
     seats: 4,
     type:'Lecture',
-    days:' M R 9:05-10:30',
+    days:' M R ',
     instructor:' Anne Smith-Thompson',
   },
   {
@@ -46,7 +46,7 @@ Computer_Science:[
     credits: 3,
     seats: 12,
     type:'Lecture',
-    days:'M R 10:40-12:05 ',
+    days:'M R  ',
     instructor:'Bonnie MacKellar'
 
   },
@@ -66,7 +66,7 @@ Computer_Science:[
     credits: 3,
     seats: 8,
     type:'Lecture',
-    days:'W 1:50-4:40',
+    days:'W ',
     instructor:'Christoforos Christoforou',
   }],
   Computer_Security_System:[
@@ -126,7 +126,7 @@ Networking:[
     course:'NET 1011 ',
     title:'INTRODUCTION TO NETWORKS',
     credits: 3,
-    seats: 0,
+    seats: 2,
     type:'Online',
     days:'W ',
     instructor:'Maxine Greenidge'
@@ -164,7 +164,7 @@ Healthcare_informatics:[
   },
   {
     course:'HCI 1021',
-    title:'HEALTHCARE DATABASE MGT SYS',
+    title:' DATABASE MGT SYS',
     credits:3,
     seats: 2,
     type:'Lecture',
@@ -337,7 +337,7 @@ function getMTH(){
     var table = document.getElementById("output");
     document.getElementById("output").innerHTML = ""
     for(i = 0, n= mthData.length; i<n; i++){
-      
+
       course.innerHTML = mthData[i].course;
       title.innerHTML = mthData[i].title;
       credits.innerHTML = mthData[i].credits;
