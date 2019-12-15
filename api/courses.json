@@ -114,7 +114,7 @@
 		"credits": 3,
 		"seats": 3,
 		"type": "Hybrid",
-		"days": "M R 9:05-10:30",
+		"days": "M R ",
 		"instructor": "Geoffry Dick"
 
 	}],
@@ -124,7 +124,7 @@
 			"credits": 3,
 			"seats": 2,
 			"type": "Online",
-			"days": "W 7:30-10:20",
+			"days": "W ",
 			"instructor": "Maxine Greenidge"
 
 		},
@@ -134,7 +134,7 @@
 			"credits": 3,
 			"seats": 4,
 			"type": "Hybrid-Classroom & Online",
-			"days": "Saturday 8:30-11:20",
+			"days": "S ",
 			"instructor": "Maxine Greenidge"
 		},
 		{
@@ -143,7 +143,7 @@
 			"credits": 3,
 			"seats": 7,
 			"type": "Lecture",
-			"days": "Saturday 12:30-15:20",
+			"days": "S ",
 			"instructor": "Feliz Fischman"
 		}
 	],

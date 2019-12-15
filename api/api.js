@@ -389,6 +389,7 @@ document.getElementById("output").innerHTML = ""
 
 
 
+
 function searchCourse(query){
   var table = document.getElementById("output");
   for(i = 0, n= cusData.length; i<n; i++){
