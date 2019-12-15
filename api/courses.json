@@ -185,7 +185,7 @@
 			"credits": 3,
 			"seats": 10,
 			"type": "Hybrid-Classroom & Online",
-			"days": "T 9:05-10:30",
+			"days": "T ",
 			"instructor": "Frank Servas"
 
 		},
@@ -205,7 +205,7 @@
 			"credits": 3,
 			"seats": 7,
 			"type": "Hybrid-Classroom & Online",
-			"days": "W 5:00-6:25",
+			"days": "W ",
 			"instructor": "Ronald Fechter"
 
 		}
